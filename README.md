@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**PriyaaSharma2005/PriyaaSharma2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Priya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -29,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyaasharma2005&show_icons=true&locale=en" alt="priyaasharma2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyaasharma2005&" alt="priyaasharma2005" /></p>
-
